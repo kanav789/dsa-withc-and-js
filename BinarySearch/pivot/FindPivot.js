@@ -1,4 +1,4 @@
-// find the minimum value in sorted array
+// find the minimum value in rotated sorted array
 
 function Pivot(arr) {
   let s = 0;
