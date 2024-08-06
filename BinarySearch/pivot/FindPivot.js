@@ -13,5 +13,5 @@ function Pivot(arr) {
   }
   return s;
 }
-// let arr = [3, 8, 10, 17, 1];
+let arr = [7, 9, 1, 2, 3];
 console.log(Pivot(arr));
