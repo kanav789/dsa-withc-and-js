@@ -136,6 +136,33 @@
 34. Implement in-place merge sort
 35. Partitioning and sorting arrays with many repeated entries
 
+
+### **Binary Search Trees (BST)**
+
+1. Find a Value in a BST
+2. Deletion of a Node in a BST
+3. Find Min and Max Value in a BST
+4. Find Inorder Successor and Predecessor in a BST
+5. Check if a Tree is a BST
+6. Populate Inorder Successor of All Nodes
+7. Find LCA of Two Nodes in a BST
+8. Construct BST from Preorder Traversal
+9. Convert Binary Tree into BST
+10. Convert a Normal BST into a Balanced BST
+11. Merge Two BSTs
+12. Find Kth Largest Element in a BST
+13. Find Kth Smallest Element in a BST
+14. Count Pairs from Two BSTs with Sum Equal to Given Value “X”
+15. Find the Median of a BST in O(n) Time and O(1) Space
+16. Count BST Nodes that Lie in a Given Range
+17. Replace Every Element with the Least Greater Element on its Right
+18. Given “n” Appointments, Find Conflicting Appointments
+19. Check if Preorder is Valid
+20. Check if BST Contains Dead End
+21. Largest BST in a Binary Tree
+22. Flatten BST to Sorted List
+
+
 ### Linked List
 
 1. Write a program to reverse a linked list (both iterative and recursive)
@@ -364,30 +391,7 @@ Here is a list of questions under the "Backtracking" and "Dynamic Programming" c
 34. Find All Duplicate Subtrees in a Binary Tree
 35. Tree Isomorphism Problem
 
-### **Binary Search Trees (BST)**
 
-1. Find a Value in a BST
-2. Deletion of a Node in a BST
-3. Find Min and Max Value in a BST
-4. Find Inorder Successor and Predecessor in a BST
-5. Check if a Tree is a BST
-6. Populate Inorder Successor of All Nodes
-7. Find LCA of Two Nodes in a BST
-8. Construct BST from Preorder Traversal
-9. Convert Binary Tree into BST
-10. Convert a Normal BST into a Balanced BST
-11. Merge Two BSTs
-12. Find Kth Largest Element in a BST
-13. Find Kth Smallest Element in a BST
-14. Count Pairs from Two BSTs with Sum Equal to Given Value “X”
-15. Find the Median of a BST in O(n) Time and O(1) Space
-16. Count BST Nodes that Lie in a Given Range
-17. Replace Every Element with the Least Greater Element on its Right
-18. Given “n” Appointments, Find Conflicting Appointments
-19. Check if Preorder is Valid
-20. Check if BST Contains Dead End
-21. Largest BST in a Binary Tree
-22. Flatten BST to Sorted List
 
 ### **Graphs**
 
