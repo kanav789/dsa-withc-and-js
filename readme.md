@@ -4,7 +4,7 @@
 
 1. Reverse an Array/String✅
 2. Find the maximum and minimum element in an array ✅
-3. Find the “Kth” max and min element of an array
+3. Find the “Kth” max and min element of an array ✅
 4. Sort an array of only 0, 1, and 2 without using any sorting algorithm
 5. Move all the negative elements to one side of the array
 6. Find the Union and Intersection of two sorted arrays
